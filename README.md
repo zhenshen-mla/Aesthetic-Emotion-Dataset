@@ -7,7 +7,7 @@
   We further rate the quality of these images from the aesthetic perspective. To ensure the quality and integrity of the rating process, ten volunteers were invited to rate each image with one of the four quality levels: Excellent (score 10), Good (score 7) , Fair (score 4) and Bad (score 1). The aesthetic quality of each image is measured by the average of the scores from individual raters, and thus takes values on the scale of 1 to 10. Similar to previous rating datasets [2], we ﬁnd that the average scores are well ﬁt by a Gaussian distribution. Then, images with average scores smaller than 5 were labeled as low quality, and the others were labeled as high quality. Finally, we identiﬁed xxxxx high-aesthetic and xxxxx low-aesthetic images, respectively.  
   Fig. 1 displays the number of high-aesthetic and low aesthetic images grouped on each emotional category. As can be seen, if images arouse positive emotions, they are more likely to have high-aesthetic quality; otherwise,they are more likely to be low-aesthetic ones. This phenomenon provides empirical support for our claim that aesthetic and emotional perceptions are correlated and interact with each other.
 
-![image](https://github.com/zhenshen-mla/Series-Photo-Selection/blob/master/examples/structure.png)  
+![image](https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/examples/distribution.png)  
 
   
 ## Models
