@@ -9,7 +9,7 @@
   
   Fig. 1 displays the number of high-aesthetic and low aesthetic images grouped on each emotional category. As can be seen, if images arouse positive emotions, they are more likely to have high-aesthetic quality; otherwise,they are more likely to be low-aesthetic ones. This phenomenon provides empirical support for our claim that aesthetic and emotional perceptions are correlated and interact with each other.
 
-![image](https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/distribution.png)  
+<div align=center><img width="200" height="200" src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/distribution.png"/></div>
 
   
 ## Models
