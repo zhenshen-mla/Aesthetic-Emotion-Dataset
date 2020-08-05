@@ -18,8 +18,8 @@
   
 ## Details
   Images with Aesthetics and Emotions Dataset (IAE Dataset) produced by Chaoran Cui, Zhen Shen, Jun Yu.  
-  Users can download IAE dataset through [Baidu net disk](http://www.baidu.com) and [OneDrive](http://www.baidu.com).  
-  This package includes the following folders and files:  
+  Users can download IAE dataset through [Baidu Netdisk](http://www.baidu.com) and [OneDrive](http://www.baidu.com).  
+  This package of IAEDataset.rar includes the following folders and files:  
 - train_aes_list.txt lists the aesthetic label in all training samples. The format is "#IMAGE_ID #AESTHETIC LABEL".  
 - val_aes_list.txt lists the aesthetic label in all validation samples. The format is "#IMAGE_ID #AESTHETIC LABEL".  
 - test_aes_list.txt lists the aesthetic label in all test samples. The format is "#IMAGE_ID #AESTHETIC LABEL".  
