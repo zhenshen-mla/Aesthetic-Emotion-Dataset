@@ -12,13 +12,8 @@
   Fig. 1 displays the number of high-aesthetic and low-aesthetic images grouped on each emotional category. The number of high-aesthetic and low-aesthetic images grouped on eight emotional categories. The ﬁrst four emotions (i.e., amusement, excitement, awe, and contentment) are positive, while the last four (i.e.,disgust,anger,fear, and sadness) are negative. As can be seen, if images arouse positive emotions, they are more likely to have high-aesthetic quality; otherwise, they are more likely to be low-aesthetic ones. This phenomenon provides empirical support for our claim that aesthetic and emotional perceptions are correlated and interact with each other.  
 
   
-## Models
-  * `/models/PAUnit.py`: implementation of Parallel Attention Unit;  
-  * `/models/ResNet18.py`: baseline with resnet18 backbone;  
-  * `/models/ResNet50.py`: baseline with resnet50 backbone;  
-  * `/models/ResNet101.py`: baseline with resnet101 backbone;  
-  * `/models/Inceptionv3.py`: baseline with Inception network;  
-  * `/models/PAUnit.py`: resnet50 network with PAUnit;   
+## Instances
+ 
   
 ## Requirements  
 
