@@ -28,6 +28,9 @@
 - test_emo_list.txt lists the emotion label in all test samples. The format is "#IMAGE_ID #EMOTION LABEL".  
 - images/ includes all the images with index from 0~22085.  
 - scores.h5 contains the ratings of all the volunteers.  
+
+## Contact
+  If you have any questions, please contact ```shenzhen_mla@163.com```.
   
 
 
