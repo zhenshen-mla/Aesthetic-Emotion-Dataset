@@ -18,6 +18,15 @@
   
 ## Details
   Images with Aesthetics and Emotions Dataset (IAE Dataset) produced by Chaoran Cui, Zhen Shen, Jun Yu.  
+  This package includes the following folders and files:  
+- train_aes_list.txt lists the aesthetic label in all training samples. The format is "#IMAGE_ID #AESTHETIC LABEL".  
+- val_aes_list.txt lists the aesthetic label in all validation samples. The format is "#IMAGE_ID #AESTHETIC LABEL".  
+- test_aes_list.txt lists the aesthetic label in all test samples. The format is "#IMAGE_ID #AESTHETIC LABEL".  
+- train_emo_list.txt lists the emotion label in all training samples. The format is "#IMAGE_ID #EMOTION LABEL".  
+- val_emo_list.txt lists the emotion label in all validation samples. The format is "#IMAGE_ID #EMOTION LABEL".  
+- test_emo_list.txt lists the emotion label in all test samples. The format is "#IMAGE_ID #EMOTION LABEL".  
+- images/ includes all the images with index from 0~22085.  
+- scores.h5 contains the ratings of all the volunteers.  
   
 
 
