@@ -16,31 +16,8 @@
  
  <div align=center><img src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/instance.jpg"/></div>  
   
-## Requirements  
-
-  Python >= 3.6  
-  numpy  
-  PyTorch >= 1.0  
-  torchvision  
-  tensorboardX  
-  sklearn  
+## Details
+  Images with Aesthetics and Emotions Dataset (IAE Dataset) produced by Chaoran Cui, Zhen Shen, Jun Yu.  
   
 
-## Installation
-  1. Clone the repo:   
-    ```
-    git clone https://github.com/zhenshen-mla/Series-Photo-Selection.git   
-    ```   
-    ```
-    cd Series-Photo-Selection  
-    ```
-  2. For custom dependencies:   
-    ```
-    pip install matplotlib tensorboardX sklearn   
-    ```
-## Usage   
-  1. Download the dataset([Automatic triage for a photo series](https://phototriage.cs.princeton.edu/dataset.html)) and configure the data path.   
-  2. Train the baseline with ResNet backbone:  
-  ``` python train_resnet.py ```  
-  3. Train the network with PAUnit:  
-  ``` python train_pau.py ```  
+
