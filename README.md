@@ -7,14 +7,14 @@
   
   We further rate the quality of these images from the aesthetic perspective. To ensure the quality and integrity of the rating process, ten volunteers were invited to rate each image with one of the four quality levels: Excellent (score 10), Good (score 7) , Fair (score 4) and Bad (score 1). The aesthetic quality of each image is measured by the average of the scores from individual raters, and thus takes values on the scale of 1 to 10. Similar to previous rating datasets [2], we ﬁnd that the average scores are well ﬁt by a Gaussian distribution. Then, images with average scores smaller than 5 were labeled as low quality, and the others were labeled as high quality. Finally, we identiﬁed 12762 high-aesthetic and 9324 low-aesthetic images, respectively.  
 
-<div align=center><img width="450" height="300" alt="图片描述文字" src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/category.png"/></div>  
+<div align=center><img width="450" height="300" src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/category.png"/></div>  
 
   Fig. 1 displays the number of high-aesthetic and low-aesthetic images grouped on each emotional category. The number of high-aesthetic and low-aesthetic images grouped on eight emotional categories. The ﬁrst four emotions (i.e., amusement, excitement, awe, and contentment) are positive, while the last four (i.e.,disgust,anger,fear, and sadness) are negative. As can be seen, if images arouse positive emotions, they are more likely to have high-aesthetic quality; otherwise, they are more likely to be low-aesthetic ones. This phenomenon provides empirical support for our claim that aesthetic and emotional perceptions are correlated and interact with each other.  
 
   
 ## Instances
  
- <div align=center><img width="700" height="300" alt="图片描述文字" src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/instance.jpg"/></div>  
+ <div align=center><img src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/instance.jpg"/></div>  
   
 ## Requirements  
 
