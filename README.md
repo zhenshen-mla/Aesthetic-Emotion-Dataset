@@ -32,7 +32,7 @@
 
 ## References
   [1] Quanzeng You, Jiebo Luo, Hailin Jin, and Jianchao Yang, “Building a large scale dataset for image emotion recognition: The ﬁne print and the benchmark,” in Proceedings of the AAAI Conference on Artiﬁcial Intelligence, 2016, pp. 308–314.  
-  [2] NailaMurray,LucaMarchesotti,andFlorentPerronnin, “Ava: A large-scale database for aesthetic visual analysis,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2012, pp. 2408–2415.  
+  [2] NailaMurray,LucaMarchesotti,andFlorentPerronnin, “Ava: A large-scale database for aesthetic visual analysis,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2012, pp. 2408–2415.   
 
 ## Contact
   If you have any questions, please contact ```shenzhen_mla@163.com```.
