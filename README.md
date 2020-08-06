@@ -9,7 +9,7 @@
 
 <div align=center><img width="450" height="300" src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/category.png"/></div>  
 
-  Fig. 1 displays the number of high-aesthetic and low-aesthetic images grouped on each emotional category. The number of high-aesthetic and low-aesthetic images grouped on eight emotional categories. The ﬁrst four emotions (i.e., amusement, excitement, awe, and contentment) are positive, while the last four (i.e.,disgust,anger,fear, and sadness) are negative. As can be seen, if images arouse positive emotions, they are more likely to have high-aesthetic quality; otherwise, they are more likely to be low-aesthetic ones. This phenomenon provides empirical support for our claim that aesthetic and emotional perceptions are correlated and interact with each other.  
+  The figure above displays the number of high-aesthetic and low-aesthetic images grouped on each emotional category. The number of high-aesthetic and low-aesthetic images grouped on eight emotional categories. The ﬁrst four emotions (i.e., amusement, excitement, awe, and contentment) are positive, while the last four (i.e.,disgust,anger,fear, and sadness) are negative. As can be seen, if images arouse positive emotions, they are more likely to have high-aesthetic quality; otherwise, they are more likely to be low-aesthetic ones. This phenomenon provides empirical support for our claim that aesthetic and emotional perceptions are correlated and interact with each other.  
 
   
 ## Instances
@@ -28,6 +28,10 @@
 - test_emo_list.txt lists the emotion label in all test samples. The format is "#IMAGE_ID #EMOTION LABEL".  
 - images/ includes all the images with index from 0~22085.  
 - scores.h5 contains the ratings of all the volunteers.  
+
+## References
+  [1] Quanzeng You, Jiebo Luo, Hailin Jin, and Jianchao Yang, “Building a large scale dataset for image emotion recognition: The ﬁne print and the benchmark,” in Proceedings of the AAAI Conference on Artiﬁcial Intelligence, 2016, pp. 308–314.  
+  [2] NailaMurray,LucaMarchesotti,andFlorentPerronnin, “Ava: A large-scale database for aesthetic visual analysis,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2012, pp. 2408–2415.  
 
 ## Contact
   If you have any questions, please contact ```shenzhen_mla@163.com```.
