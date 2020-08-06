@@ -15,6 +15,7 @@
 ## Instances
  
  <div align=center><img src="https://github.com/zhenshen-mla/Aesthetic-Emotion-Dataset/blob/master/instance.jpg"/></div>  
+  Example images and their corresponding labels for aesthetics assessment and emotion recognition in the IAE Dataset.  
   
 ## Details
   Images with Aesthetics and Emotions Dataset (IAE Dataset) produced by Chaoran Cui, Zhen Shen, Jun Yu.  
